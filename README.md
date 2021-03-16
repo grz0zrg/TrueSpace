@@ -1,6 +1,6 @@
 
 # TrueSpace by The Orz
-### 256 bytes linux intro for Lovebyte sizecoding demoparty 2021
+### 256 bytes linux intro for Lovebyte sizecoding demoparty 2021
 
 this doesn't use any libraries (not even the standard C library) and use two syscalls (open / mmap) to output to the Linux framebuffer device (fbdev), this also doesn't use shell / compression stub so it is a 'pure' standalone 256 bytes ELF
 
