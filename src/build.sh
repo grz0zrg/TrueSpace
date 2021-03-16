@@ -1,0 +1,5 @@
+#!/bin/sh
+make WIDTH="1920" HEIGHT="1080"
+make WIDTH="1280" HEIGHT="1024"
+make WIDTH="1024" HEIGHT="768"
+make WIDTH="800" HEIGHT="600"
